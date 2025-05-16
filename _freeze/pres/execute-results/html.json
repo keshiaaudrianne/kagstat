@@ -1,0 +1,15 @@
+{
+  "hash": "c86975cc399aad4d2c2cf4673a741e8a",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Presentations\"\n---\n\n\n\nAbout this site\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n\n## Hello\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlorem::ipsum(3)\n```\n\n::: {.cell-output-display}\nIpsum primis gravida fames erat aenean magna aptent id. Cursus nisi porta hac penatibus torquent lectus dapibus vehicula dui. Feugiat sed mi dis praesent sapien molestie diam aptent quis. Sem rhoncus duis vehicula facilisis nisi, phasellus enim lectus vel. Ornare taciti natoque: quis fermentum vitae praesent egestas potenti?\n\nIpsum blandit mus maecenas lacus nullam. Nisl lacus bibendum urna auctor lobortis fusce. Interdum lacinia congue rutrum luctus potenti eget risus sociis class taciti lacus sem litora: non hendrerit montes enim cras, laoreet penatibus eget!\n\nAdipiscing nisl dictum cursus aenean lacus mauris; pretium donec posuere. Dignissim bibendum parturient mus arcu interdum iaculis metus congue convallis. Sem placerat potenti nascetur phasellus molestie vestibulum pharetra mattis?\n:::\n:::\n\n\n\n\n### This is subheader\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlorem::ipsum(3)\n```\n\n::: {.cell-output-display}\nConsectetur himenaeos ornare etiam, ut dui leo. Donec porta felis blandit nisi conubia a aliquet; vitae fermentum lobortis natoque faucibus porttitor.\n\nAdipiscing a vehicula netus enim leo cras nunc lacinia convallis nascetur! Purus pharetra class nunc tortor hac augue rhoncus cubilia? Donec cum tellus morbi torquent, pellentesque semper tempor maecenas nam cubilia? Interdum dictumst varius quis dapibus, orci et habitasse class – tristique pharetra gravida orci.\n\nAmet id fringilla luctus ad bibendum, vestibulum varius vitae ridiculus nam malesuada! At donec porttitor blandit, sociosqu pretium lacinia pharetra, turpis turpis nam dapibus. Ligula fusce suspendisse libero conubia ullamcorper vehicula, curae fringilla libero – egestas class per eleifend interdum. Aliquet convallis id mauris quisque, nullam facilisis commodo magnis risus pretium!\n:::\n:::",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

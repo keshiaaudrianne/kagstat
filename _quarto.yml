@@ -7,7 +7,13 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: HAHA
+      - href: pres.qmd
+        text: Presentations
+    right:
+    - text: CV
+    - href: KAG_Resume.pdf
 
 format:
   html:

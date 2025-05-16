@@ -2,7 +2,7 @@
   "hash": "e0b1847f2138ba40e87e4ea110156f7f",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Keshia A Gunawan\"\nabout:\n  template: jolla\n  image: images/KeshiaGunawan_photo.jpg\n  links:\n    - icon: twitter\n      text: twitter\n      href: https://twitter.com\n    - icon: github\n      text: Github\n      href: https://github.com\n    - text: CV\n      file: KAG_Resume.pdf\n---\n\n\n\n\nI am currently a rising senior studying Cognitive Science, Data Science, Business Institutions, and HCI Certificate in Northwestern University.\n\nTo learn more about me visit <https://www.linkedin.com/in/keshiaaudrianne/>.\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Keshia A Gunawan\"\nabout:\n  template: jolla\n  image: images/KeshiaGunawan_photo.jpg\n  links:\n    - icon: twitter\n      text: twitter\n      href: https://twitter.com\n    - icon: github\n      text: Github\n      href: https://github.com\n    - text: CV\n      file: KAG_Resume.pdf\n---\n\n\n\nI am currently a rising senior studying Cognitive Science, Data Science, Business Institutions, and HCI Certificate in Northwestern University.\n\nTo learn more about me visit <https://www.linkedin.com/in/keshiaaudrianne/>.\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
