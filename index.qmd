@@ -1,10 +1,22 @@
 ---
-title: "kagstat"
+title: "Keshia A Gunawan"
+about:
+  template: jolla
+  image: images/KeshiaGunawan_photo.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+    - text: CV
+      file: KAG_Resume.pdf
 ---
 
-This is a Quarto website.
+I am currently a rising senior studying Cognitive Science, Data Science, Business Institutions, and HCI Certificate in Northwestern University.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+To learn more about me visit <https://www.linkedin.com/in/keshiaaudrianne/>.
 
 ```{r}
 1 + 1
